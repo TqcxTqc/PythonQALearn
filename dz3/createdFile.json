@@ -6,8 +6,8 @@
       "books": [
          {
             "title": "Fundamentals of Wavelets",
-            "author": "signal_processing",
-            "height": "Wiley"
+            "author": "Goswami, Jaideva",
+            "height": "228"
          }
       ]
    },
@@ -18,8 +18,8 @@
       "books": [
          {
             "title": "Data Smart",
-            "author": "data_science",
-            "height": "Wiley"
+            "author": "Foreman, John",
+            "height": "235"
          }
       ]
    },
@@ -30,8 +30,8 @@
       "books": [
          {
             "title": "God Created the Integers",
-            "author": "mathematics",
-            "height": "Penguin"
+            "author": "Hawking, Stephen",
+            "height": "197"
          }
       ]
    },
@@ -42,8 +42,8 @@
       "books": [
          {
             "title": "Superfreakonomics",
-            "author": "economics",
-            "height": "HarperCollins"
+            "author": "Dubner, Stephen",
+            "height": "179"
          }
       ]
    },
@@ -54,8 +54,8 @@
       "books": [
          {
             "title": "Orientalism",
-            "author": "history",
-            "height": "Penguin"
+            "author": "Said, Edward",
+            "height": "197"
          }
       ]
    },
@@ -66,8 +66,8 @@
       "books": [
          {
             "title": "Nature of Statistical Learning Theory, The",
-            "author": "data_science",
-            "height": "Springer"
+            "author": "Vapnik, Vladimir",
+            "height": "230"
          }
       ]
    },
@@ -78,8 +78,8 @@
       "books": [
          {
             "title": "Integration of the Indian States",
-            "author": "history",
-            "height": "Orient Blackswan"
+            "author": "Menon, V P",
+            "height": "217"
          }
       ]
    },
@@ -90,8 +90,8 @@
       "books": [
          {
             "title": "Drunkard's Walk, The",
-            "author": "science",
-            "height": "Penguin"
+            "author": "Mlodinow, Leonard",
+            "height": "197"
          }
       ]
    },
@@ -102,8 +102,8 @@
       "books": [
          {
             "title": "Image Processing & Mathematical Morphology",
-            "author": "signal_processing",
-            "height": "CRC"
+            "author": "Shih, Frank",
+            "height": "241"
          }
       ]
    },
@@ -114,8 +114,8 @@
       "books": [
          {
             "title": "How to Think Like Sherlock Holmes",
-            "author": "psychology",
-            "height": "Penguin"
+            "author": "Konnikova, Maria",
+            "height": "240"
          }
       ]
    },
@@ -126,8 +126,8 @@
       "books": [
          {
             "title": "Data Scientists at Work",
-            "author": "data_science",
-            "height": "Apress"
+            "author": "Sebastian Gutierrez",
+            "height": "230"
          }
       ]
    },
@@ -138,8 +138,8 @@
       "books": [
          {
             "title": "Slaughterhouse Five",
-            "author": "fiction",
-            "height": "Random House"
+            "author": "Vonnegut, Kurt",
+            "height": "198"
          }
       ]
    },
@@ -150,8 +150,8 @@
       "books": [
          {
             "title": "Birth of a Theorem",
-            "author": "mathematics",
-            "height": "Bodley Head"
+            "author": "Villani, Cedric",
+            "height": "234"
          }
       ]
    },
@@ -162,8 +162,8 @@
       "books": [
          {
             "title": "Structure & Interpretation of Computer Programs",
-            "author": "computer_science",
-            "height": "MIT Press"
+            "author": "Sussman, Gerald",
+            "height": "240"
          }
       ]
    },
@@ -174,8 +174,8 @@
       "books": [
          {
             "title": "Age of Wrath, The",
-            "author": "history",
-            "height": "Penguin"
+            "author": "Eraly, Abraham",
+            "height": "238"
          }
       ]
    },
@@ -186,8 +186,8 @@
       "books": [
          {
             "title": "Trial, The",
-            "author": "fiction",
-            "height": "Random House"
+            "author": "Kafka, Frank",
+            "height": "198"
          }
       ]
    },
@@ -198,8 +198,8 @@
       "books": [
          {
             "title": "Statistical Decision Theory'",
-            "author": "data_science",
-            "height": "MIT Press"
+            "author": "Pratt, John",
+            "height": "236"
          }
       ]
    },
@@ -210,8 +210,8 @@
       "books": [
          {
             "title": "Data Mining Handbook",
-            "author": "data_science",
-            "height": "Apress"
+            "author": "Nisbet, Robert",
+            "height": "242"
          }
       ]
    },
@@ -222,8 +222,8 @@
       "books": [
          {
             "title": "New Machiavelli, The",
-            "author": "fiction",
-            "height": "Penguin"
+            "author": "Wells, H. G.",
+            "height": "180"
          }
       ]
    },
@@ -234,8 +234,8 @@
       "books": [
          {
             "title": "Physics & Philosophy",
-            "author": "science",
-            "height": "Penguin"
+            "author": "Heisenberg, Werner",
+            "height": "197"
          }
       ]
    },
@@ -246,8 +246,8 @@
       "books": [
          {
             "title": "Making Software",
-            "author": "computer_science",
-            "height": "O'Reilly"
+            "author": "Oram, Andy",
+            "height": "232"
          }
       ]
    },
@@ -258,8 +258,8 @@
       "books": [
          {
             "title": "Analysis, Vol I",
-            "author": "mathematics",
-            "height": "HBA"
+            "author": "Tao, Terence",
+            "height": "248"
          }
       ]
    },
@@ -270,8 +270,8 @@
       "books": [
          {
             "title": "Machine Learning for Hackers",
-            "author": "data_science",
-            "height": "O'Reilly"
+            "author": "Conway, Drew",
+            "height": "233"
          }
       ]
    },
@@ -282,8 +282,8 @@
       "books": [
          {
             "title": "Signal and the Noise, The",
-            "author": "data_science",
-            "height": "Penguin"
+            "author": "Silver, Nate",
+            "height": "233"
          }
       ]
    },
@@ -294,8 +294,8 @@
       "books": [
          {
             "title": "Python for Data Analysis",
-            "author": "data_science",
-            "height": "O'Reilly"
+            "author": "McKinney, Wes",
+            "height": "233"
          }
       ]
    },
@@ -306,8 +306,8 @@
       "books": [
          {
             "title": "Introduction to Algorithms",
-            "author": "computer_science",
-            "height": "MIT Press"
+            "author": "Cormen, Thomas",
+            "height": "234"
          }
       ]
    },
@@ -318,8 +318,8 @@
       "books": [
          {
             "title": "Beautiful and the Damned, The",
-            "author": "nonfiction",
-            "height": "Penguin"
+            "author": "Deb, Siddhartha",
+            "height": "198"
          }
       ]
    },
@@ -330,8 +330,8 @@
       "books": [
          {
             "title": "Outsider, The",
-            "author": "fiction",
-            "height": "Penguin"
+            "author": "Camus, Albert",
+            "height": "198"
          }
       ]
    }

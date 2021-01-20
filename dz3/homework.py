@@ -36,7 +36,7 @@ class TestDataCreator:
 
         try:
             for book in self.csv_file:
-                title, genre, author, publisher, height = book
+                title, author, genre, height, publisher = book
 
                 next(iterator)["books"].append({'title': title,
                                                 'author': author,
